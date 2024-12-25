@@ -1,2 +1,10 @@
-test1.log
+#忽略所有的.log文件
 *.log
+
+#只忽略当前文件夹下的TODO文件夹
+/TODO
+
+#忽略所有文件夹下的temp文件夹
+temp/
+
+
